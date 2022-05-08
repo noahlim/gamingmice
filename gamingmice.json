@@ -1,0 +1,152 @@
+[
+    {
+        "DESCRIPTION": "The all new Logitech hero gaming mouse. Available in RGB",
+        "QTYONBACKORDER": 2,
+        "QTYONHAND": 20,
+        "MSRP": 49.99,
+        "COSTPRICE": 20.00,
+        "GRAPHICNAME": "hero.jpg",
+        "PRODUCTNAME": "Logitech Hero", 
+        "BRAND": "Logitech"
+    },
+    {
+        "DESCRIPTION": "The all new Logitech Pro gaming mouse. Available in RGB",
+        "QTYONBACKORDER": 1,
+        "QTYONHAND": 25,
+        "MSRP": 29.99,
+        "COSTPRICE": 10.00,
+        "GRAPHICNAME": "pro.png",
+        "PRODUCTNAME": "Logitech Pro", 
+        "BRAND": "Logitech"
+    },
+    {
+        "DESCRIPTION": "The all new Logitech G303 gaming mouse. Available in RGB",
+        "QTYONBACKORDER": 1,
+        "QTYONHAND": 50,
+        "MSRP": 19.99,
+        "COSTPRICE": 10.00,
+        "GRAPHICNAME": "G303.jpg",
+        "PRODUCTNAME": "Logitech G303", 
+        "BRAND": "Logitech"
+    },
+    {
+        "DESCRIPTION": "The all new Logitech G903 gaming mouse. Available in RGB",
+        "QTYONBACKORDER": 2,
+        "QTYONHAND": 29,
+        "MSRP": 59.99,
+        "COSTPRICE": 30.00,
+        "GRAPHICNAME": "G903.jpg",
+        "PRODUCTNAME": "Logitech G903", 
+        "BRAND": "Logitech"
+    },
+    {
+        "DESCRIPTION": "The all new Logitech G203 Prodigy gaming mouse. Available in RGB",
+        "QTYONBACKORDER": 100,
+        "QTYONHAND": 3,
+        "MSRP": 105.99,
+        "COSTPRICE": 80.00,
+        "GRAPHICNAME": "G203.jpg",
+        "PRODUCTNAME": "Logitech G203 Prodigy", 
+        "BRAND": "Logitech"
+    },
+    {
+        "DESCRIPTION": "The Razer Viper Ultimate, suitable for long hours of gaming",
+        "QTYONBACKORDER": 2,
+        "QTYONHAND": 20,
+        "MSRP": 49.99,
+        "COSTPRICE": 20.00,
+        "GRAPHICNAME": "Viper.png",
+        "PRODUCTNAME": "Razer Viper Ultimate", 
+        "BRAND": "Razer"
+    },
+    {
+        "DESCRIPTION": "The Razer Basilisk, suitable for casual hours of gaming",
+        "QTYONBACKORDER": 3,
+        "QTYONHAND": 30,
+        "MSRP": 59.99,
+        "COSTPRICE": 25.00,
+        "GRAPHICNAME": "Basilisk.jpg",
+        "PRODUCTNAME": "Razer Basilisk", 
+        "BRAND": "Razer"
+    },
+    {
+        "DESCRIPTION": "The Razer DeathAdder, suitable for long hours of gaming",
+        "QTYONBACKORDER": 5,
+        "QTYONHAND": 35,
+        "MSRP": 79.99,
+        "COSTPRICE": 35.00,
+        "GRAPHICNAME": "Deathadder.png",
+        "PRODUCTNAME": "Razer DeathAdder", 
+        "BRAND": "Razer"
+    },
+    {
+        "DESCRIPTION": "The Razer Naga, suitable for casual hours of gaming",
+        "QTYONBACKORDER": 90,
+        "QTYONHAND": 30,
+        "MSRP": 69.99,
+        "COSTPRICE": 30.00,
+        "GRAPHICNAME": "Naga.jpg",
+        "PRODUCTNAME": "Razer Naga", 
+        "BRAND": "Razer"
+    },
+    {
+        "DESCRIPTION": "The Razer Mamba, suitable for long hours of gaming",
+        "QTYONBACKORDER": 5,
+        "QTYONHAND": 35,
+        "MSRP": 79.99,
+        "COSTPRICE": 25.00,
+        "GRAPHICNAME": "Mamba.png",
+        "PRODUCTNAME": "Razer Mamba", 
+        "BRAND": "Razer"
+    },
+    {
+        "DESCRIPTION": "The Corsair Harpoon, suitable for long hours of gaming",
+        "QTYONBACKORDER": 15,
+        "QTYONHAND": 30,
+        "MSRP": 49.99,
+        "COSTPRICE": 15.00,
+        "GRAPHICNAME": "Harpoom.jpg",
+        "PRODUCTNAME": "Corsair Harpoon", 
+        "BRAND": "Corsair"
+    },
+    {
+        "DESCRIPTION": "The Corsair Harpoon, suitable for long hours of gaming",
+        "QTYONBACKORDER": 15,
+        "QTYONHAND": 30,
+        "MSRP": 49.99,
+        "COSTPRICE": 25.00,
+        "GRAPHICNAME": "Harpoom.png",
+        "PRODUCTNAME": "Corsair Harpoon", 
+        "BRAND": "Corsair"
+    },
+    {
+        "DESCRIPTION": "The Corsair Dark Core, suitable for casual hours of gaming",
+        "QTYONBACKORDER": 120,
+        "QTYONHAND": 20,
+        "MSRP": 49.99,
+        "COSTPRICE": 29.00,
+        "GRAPHICNAME": "Core.png",
+        "PRODUCTNAME": "Corsair Dark Core", 
+        "BRAND": "Corsair"
+    },
+    {
+        "DESCRIPTION": "The Corsair IronClaw, suitable for long hours of gaming",
+        "QTYONBACKORDER": 15,
+        "QTYONHAND": 35,
+        "MSRP": 39.99,
+        "COSTPRICE": 29.00,
+        "GRAPHICNAME": "IronClaw.png",
+        "PRODUCTNAME": "Corsair IronClaw", 
+        "BRAND": "Corsair"
+    },
+    {
+        "DESCRIPTION": "The Corsair M65, suitable for casual hours of gaming",
+        "QTYONBACKORDER": 70,
+        "QTYONHAND": 30,
+        "MSRP": 59.99,
+        "COSTPRICE": 25.00,
+        "GRAPHICNAME": "M65.png",
+        "PRODUCTNAME": "Corsair M65", 
+        "BRAND": "Corsair"
+    }
+]
