@@ -7,7 +7,8 @@
         "COSTPRICE": "20.00",
         "GRAPHICNAME": "hero.jpg",
         "PRODUCTNAME": "Logitech Hero", 
-        "BRAND": "Logitech"
+        "BRAND": "Logitech",
+        "ID": "1"
     },
     {
         "DESCRIPTION": "The all new Logitech Pro gaming mouse. Available in RGB",
@@ -17,7 +18,8 @@
         "COSTPRICE": "10.00",
         "GRAPHICNAME": "pro.png",
         "PRODUCTNAME": "Logitech Pro", 
-        "BRAND": "Logitech"
+        "BRAND": "Logitech",
+        "ID": "2"
     },
     {
         "DESCRIPTION": "The all new Logitech G303 gaming mouse. Available in RGB",
@@ -27,7 +29,8 @@
         "COSTPRICE": "10.00",
         "GRAPHICNAME": "G303.jpg",
         "PRODUCTNAME": "Logitech G303", 
-        "BRAND": "Logitech"
+        "BRAND": "Logitech",
+        "ID": "3"
     },
     {
         "DESCRIPTION": "The all new Logitech G903 gaming mouse. Available in RGB",
@@ -37,7 +40,8 @@
         "COSTPRICE": "30.00",
         "GRAPHICNAME": "G903.jpg",
         "PRODUCTNAME": "Logitech G903", 
-        "BRAND": "Logitech"
+        "BRAND": "Logitech",
+        "ID": "4"
     },
     {
         "DESCRIPTION": "The all new Logitech G203 Prodigy gaming mouse. Available in RGB",
@@ -47,7 +51,8 @@
         "COSTPRICE": "80.00",
         "GRAPHICNAME": "G203.jpg",
         "PRODUCTNAME": "Logitech G203 Prodigy", 
-        "BRAND": "Logitech"
+        "BRAND": "Logitech",
+        "ID": "5"
     },
     {
         "DESCRIPTION": "The Razer Viper Ultimate, suitable for long hours of gaming",
@@ -57,7 +62,8 @@
         "COSTPRICE": "20.00",
         "GRAPHICNAME": "Viper.png",
         "PRODUCTNAME": "Razer Viper Ultimate", 
-        "BRAND": "Razer"
+        "BRAND": "Razer",
+        "ID": "6"
     },
     {
         "DESCRIPTION": "The Razer Basilisk, suitable for casual hours of gaming",
@@ -67,7 +73,8 @@
         "COSTPRICE": "25.00",
         "GRAPHICNAME": "Basilisk.jpg",
         "PRODUCTNAME": "Razer Basilisk", 
-        "BRAND": "Razer"
+        "BRAND": "Razer",
+        "ID": "7"
     },
     {
         "DESCRIPTION": "The Razer DeathAdder, suitable for long hours of gaming",
@@ -77,7 +84,8 @@
         "COSTPRICE": "35.00",
         "GRAPHICNAME": "Deathadder.png",
         "PRODUCTNAME": "Razer DeathAdder", 
-        "BRAND": "Razer"
+        "BRAND": "Razer",
+        "ID": "8"
     },
     {
         "DESCRIPTION": "The Razer Naga, suitable for casual hours of gaming",
@@ -87,7 +95,8 @@
         "COSTPRICE": "30.00",
         "GRAPHICNAME": "Naga.jpg",
         "PRODUCTNAME": "Razer Naga", 
-        "BRAND": "Razer"
+        "BRAND": "Razer",
+        "ID": "9"
     },
     {
         "DESCRIPTION": "The Razer Mamba, suitable for long hours of gaming",
@@ -97,7 +106,8 @@
         "COSTPRICE": "25.00",
         "GRAPHICNAME": "Mamba.png",
         "PRODUCTNAME": "Razer Mamba", 
-        "BRAND": "Razer"
+        "BRAND": "Razer",
+        "ID": "10"
     },
     {
         "DESCRIPTION": "The Corsair Harpoon, suitable for long hours of gaming",
@@ -107,7 +117,8 @@
         "COSTPRICE": "15.00",
         "GRAPHICNAME": "Harpoom.jpg",
         "PRODUCTNAME": "Corsair Harpoon", 
-        "BRAND": "Corsair"
+        "BRAND": "Corsair",
+        "ID": "11"
     },
     {
         "DESCRIPTION": "The Corsair Harpoon, suitable for long hours of gaming",
@@ -117,7 +128,8 @@
         "COSTPRICE": "25.00",
         "GRAPHICNAME": "Harpoom.png",
         "PRODUCTNAME": "Corsair Harpoon", 
-        "BRAND": "Corsair"
+        "BRAND": "Corsair",
+        "ID": "12"
     },
     {
         "DESCRIPTION": "The Corsair Dark Core, suitable for casual hours of gaming",
@@ -127,7 +139,8 @@
         "COSTPRICE": "29.00",
         "GRAPHICNAME": "Core.png",
         "PRODUCTNAME": "Corsair Dark Core", 
-        "BRAND": "Corsair"
+        "BRAND": "Corsair",
+        "ID": "13"
     },
     {
         "DESCRIPTION": "The Corsair IronClaw, suitable for long hours of gaming",
@@ -137,7 +150,8 @@
         "COSTPRICE": "29.00",
         "GRAPHICNAME": "IronClaw.png",
         "PRODUCTNAME": "Corsair IronClaw", 
-        "BRAND": "Corsair"
+        "BRAND": "Corsair",
+        "ID": "14"
     },
     {
         "DESCRIPTION": "The Corsair M65, suitable for casual hours of gaming",
@@ -147,6 +161,7 @@
         "COSTPRICE": "25.00",
         "GRAPHICNAME": "M65.png",
         "PRODUCTNAME": "Corsair M65", 
-        "BRAND": "Corsair"
+        "BRAND": "Corsair",
+        "ID": "15"
     }
 ]
