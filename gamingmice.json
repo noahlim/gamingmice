@@ -121,13 +121,13 @@
         "ID": "11"
     },
     {
-        "DESCRIPTION": "The Corsair Harpoon, suitable for long hours of gaming",
+        "DESCRIPTION": "The Corsair Nightsword, suitable for long hours of gaming",
         "QTYONBACKORDER": "15",
         "QTYONHAND": "30",
         "MSRP": "49.99",
         "COSTPRICE": "25.00",
-        "GRAPHICNAME": "Harpoom.png",
-        "PRODUCTNAME": "Corsair Harpoon", 
+        "GRAPHICNAME": "night.png",
+        "PRODUCTNAME": "Corsair Nightsword", 
         "BRAND": "Corsair",
         "ID": "12"
     },
